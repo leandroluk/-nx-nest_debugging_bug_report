@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "api",
+      "request": "attach",
+      "cwd": "${workspaceFolder}/apps/api",
+      "type": "node",
+      "outputCapture": "console",
+      "port": 9229,
+    }
+  ]
+}
